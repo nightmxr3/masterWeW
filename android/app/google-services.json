@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "909765783972",
+    "firebase_url": "https://famaproject-2ff0b.firebaseio.com",
+    "project_id": "famaproject-2ff0b",
+    "storage_bucket": "famaproject-2ff0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909765783972:android:b0b05790969fddda269131",
+        "android_client_info": {
+          "package_name": "com.bimsina.recipes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909765783972-1acg3recjnbdd7oh8aj0dkjumjo1u7uu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5-UBtiMqAE61LrnknuXpEtwlpSVMraVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909765783972-1acg3recjnbdd7oh8aj0dkjumjo1u7uu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
